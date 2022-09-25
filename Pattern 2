@@ -1,0 +1,17 @@
+
+class Solution {
+  public:
+    void printTriangle(int n) {
+        // code here
+        for(int i=0;i<n;i++){
+            for(int j=0;j<=i;j++){
+                cout<<"*"<<" ";
+                
+            }
+            cout<<endl;
+        }
+    }
+};
+
+// we take the the for loop of column(j) <=i because in this pattern the star is printing in accordance with i as the value of i=1 then one star 
+prints when i=2 then 2 and so on.//
