@@ -12,3 +12,6 @@ class Solution {
     }
 };
 
+<br>
+
+// Here I have done is I take a for loop which prints the pattern of rows(i) and second loop for column(j). As no of column,rows = total numer(n), so both the loops goes upto n.//
