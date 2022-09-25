@@ -6,4 +6,4 @@ Hello Every One
 I am going to start a series in which I upload a code here of every question of striver dsa sheet.
 My Language is C++.
 Hope it helps you all 
-Happy Coding 
+Happy Coding.
