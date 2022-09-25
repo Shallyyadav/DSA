@@ -19,5 +19,4 @@ public:
 
 
 
-//the number of printed rows is equal to the given input n and the number of printed columns is decreasing from n to 1.
-Therefore we run the outer for loop from n to 1 and the inner for loop from 1 to row number.//
+//let say n=5 as we see in first row 5 stars prints  then decraese to 4 and so on so we start a loop outer loop from n to 1. and j from 1 to row.//
